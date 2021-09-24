@@ -1,10 +1,10 @@
-package br.com.impacta.accalculadora;
+package com.ejemplo.practica;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AcCalculadoraApplicationTests {
+class PracticaApplicationTests {
 
 	@Test
 	void contextLoads() {

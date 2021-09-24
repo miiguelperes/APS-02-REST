@@ -1,13 +1,13 @@
-package br.com.impacta.accalculadora;
+package com.ejemplo.practica;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class   AcCalculadoraApplication {
+public class PracticaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AcCalculadoraApplication.class, args);
+		SpringApplication.run(PracticaApplication.class, args);
 	}
 
 }
